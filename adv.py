@@ -212,7 +212,7 @@ def find_shortest(start=0, record=991):
     # return print(seed, len(traversal_path))
  
 
-find_shortest(0)
+# find_shortest(0)
 
 
 # random.seed(3)
